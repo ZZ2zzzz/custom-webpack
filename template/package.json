@@ -26,6 +26,8 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "element-ui": "^2.4.6",
+    "normalize.css": "^8.0.0",
     "vue": "^2.5.2"{{#router}},
     "vue-router": "^3.0.1"{{/router}}
   },
